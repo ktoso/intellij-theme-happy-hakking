@@ -1,5 +1,7 @@
 # intellij-theme-happy-hakking
 
+> The *ideal* colour scheme for all your Akka development! Happy Hakking! -- me
+
 Custom colour scheme (without the background) by myself.
 
 Mostly for Scala, but works nice with everything else.
