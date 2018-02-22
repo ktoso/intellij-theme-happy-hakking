@@ -16,8 +16,11 @@ Note also:
 Usage
 -----
 
-Import it into intellij and the scheme shows up as `Darkula - akka`
+Import it into intellij and the scheme shows up as `Darcula - akka` as follows
 
+*Step 1*: Do **File** -> **Import Settings...** and select the `happy-hacking-theme.jar` file
+
+*Step 2*: Go to **Settings** -> **Editor** -> **Colors and Fonts** to choose the theme you just installed.
 
 License
 -------
