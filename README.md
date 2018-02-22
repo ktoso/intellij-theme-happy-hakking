@@ -1,6 +1,6 @@
 # intellij-theme-happy-hakking
 
-> The *ideal* colour scheme for all your Akka development! Happy Hakking! -- me
+> "The *ideal* colour scheme for all your Akka development! Happy Hakking!" -- me
 
 Custom colour scheme (without the background) by myself.
 
