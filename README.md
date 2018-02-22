@@ -2,7 +2,7 @@
 
 Custom colour scheme (without the background) by myself.
 
-![](https://www.evernote.com/l/AAmcHWNmzv1DZ6lulnhknm8cFwNYJsCUnSk)
+![preview](https://github.com/ktoso/intellij-theme-happy-hakking/raw/master/akka____code_akka__-_____akka-persistence-typed_src_main_scala_akka_persistence_typed_internal_EventsourcedRunning_scala__akka-persistence-typed_.png)
 
 Usage
 -----
